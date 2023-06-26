@@ -1,19 +1,9 @@
 # 🤝 组群交流守则
 
-Being a remote team means that team members are either working from home or from a co-working space.
+### 如何交流
 
-{% hint style="info" %}
-Whether you decide to work from home or from a co-working space, we value the balance between private and professional life.
-{% endhint %}
+每个人教育、工作、家庭和人生阅历各有不同，会造成观念有差异，造成在某些观念上存在分歧，实属平常之事。交流的时候尽量放平心态，就事论事，要言之有物，最好能整理成较为系统的作文来阐述自己的观念，避免无意义的来回争端。
 
-### Working hours
+### 其他
 
-We encourage any working hours that are applicable to you, you know how to structure your day.
-
-### Etiquette Practices
-
-We hire folks from many different cultures, from all across the world, making aspects of work uniquely challenging. These challenges include the obvious like collaborating across time zones, and arranging offsites; but also the less obvious like respecting pronouns, pronouncing names, and respecting gender identity.
-
-### Tips
-
-Creating rituals might help you in your remote working life. As usual with rituals small ones are the most effective ones such as not working (or only working!) in your pyjamas, wearing work shoes to start the day, taking your work-cup to drink coffee/tea, setting yourself in front of a proper desk or in a specific space at home.
+《罗伯特议事规则》

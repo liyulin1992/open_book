@@ -1,17 +1,11 @@
-# 📅 会议日程
+# 📅 会议&活动
 
-### ☕️ Zoom Coffee
+### 📓分享
 
-We meet once a week for coffee for whoever is open and interested or whoever fancies a chat!
+每两周进行一次，时间一般在周六晚上7：30。
 
-### 🎲 Team Event
+### ☕️ 活动
 
-As we don't want to wait for our next offsite to spend some quality time together and sparkle our days, we're trying to organise team events on a regular basis.
+社群不定期组织下棋、纸牌和户外等娱乐活动。
 
-### 🤝 Weekly Syncs
-
-We meet on a weekly basis and sync between our cycle teams and the company as a whole.
-
-### 🌍 Offsites
-
-Every few months we arrange a company offsite so we can all meet face to face.
+###

@@ -18,4 +18,4 @@
 ## 公告板 <a href="#info" id="info"></a>
 
 * [🤝 组群交流守则](info/how-to-com.md)
-* [📅 会议日程](info/meeting.md)
+* [📅 会议&活动](info/meeting.md)

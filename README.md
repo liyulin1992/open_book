@@ -9,7 +9,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -26,7 +26,7 @@ layout:
 
 **读书会定期举行线下活动，坐标深圳，感兴趣的可以加微信taoist1992。**
 
-## 如何使用WIKI
+## 如何使用Wiki
 
-* 关于阅读书目推荐，点击左侧导航”书单“查看感兴趣的分类。
-* 关于资源搜索，可以查看如何使用Zlib。
+* 阅读书目推荐，点击左侧导航”书单“查看感兴趣的分类。
+* 资源搜索，可以查看如何使用Zlib。
