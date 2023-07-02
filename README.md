@@ -1,21 +1,7 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1686079746732-ab2a86a36b82?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODc2Nzc1NjB8&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1687579521416-bcbec263fb7e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODgzMTYxNjh8&ixlib=rb-4.0.3&q=85
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🎤 欢迎！来到开放麦

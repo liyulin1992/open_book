@@ -1,7 +1,7 @@
 ---
 description: 介绍组委会成员
 cover: >-
-  https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
+  https://images.unsplash.com/photo-1687579521416-bcbec263fb7e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODgzMTYxNjh8&ixlib=rb-4.0.3&q=85
 coverY: 0
 layout:
   cover:
